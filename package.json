@@ -1,0 +1,23 @@
+{
+  "name": "cce",
+  "version": "0.0.1",
+  "description": "Code Code Examples cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolcodeexamples/cce-cli.git"
+  },
+  "keywords": [
+    "codecodeexamples",
+    "examples"
+  ],
+  "author": "unional",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolcodeexamples/cce-cli/issues"
+  },
+  "homepage": "https://github.com/coolcodeexamples/cce-cli#readme"
+}
